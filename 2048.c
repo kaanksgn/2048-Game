@@ -29,8 +29,7 @@ int main(int argc, char *argv[]) {
 	printf("Press h to help");
 	printf("\n\n\n");
 	
-	while(cnt2==0){
-	
+	while(cnt2==0){	
 	h=getch();
 	
 	if(h=='h'){
